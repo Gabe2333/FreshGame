@@ -11,4 +11,5 @@
     "sampleRate": 44100,
     "type": 0,
     "volume": 1
+    //Yellow, you should change the bit rate to 256
 }
